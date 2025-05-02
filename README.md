@@ -1,2 +1,2 @@
 # Smart-Spoon
-Smart Spoon for Enhancing Taste Perception Using Electric Stimulation
+AI-driven smart spoon for taste simulation using electrical stimulation.
